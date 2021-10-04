@@ -1,9 +1,9 @@
 public class HelloWorld {
-    private String name;
+    private String name2;
     public String getName() {
-        return name;
+        return name2;
     }
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String name2) {
+        this.name2 = name2;
     }
 }
